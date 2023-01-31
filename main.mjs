@@ -54,7 +54,7 @@ const app = ({
     backendBatchMountEntry: hold(() => {
         return FileEntry(app.env().CUSTOM_CONTAINER_BACKEND_BATCH_MOUNT_PATH);
     }),
-    secretsStorage: hold(() => {
+    secretStorage: hold(() => {
         return SecretStorage.fromDefaultCredential({
             vaultName: app.env().CUSTOM_BACKEND_BATCH_VAULT_NAME,
             deserialize: ((value, key) => {

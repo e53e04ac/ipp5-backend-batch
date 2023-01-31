@@ -25,7 +25,7 @@ export declare type Application = {
     readonly env: Get<Ipp5BackendBatchEnvMap>;
     readonly backendMountEntry: Get<FileEntry>;
     readonly backendBatchMountEntry: Get<FileEntry>;
-    readonly secretsStorage: Get<SecretStorage<Record<string, string>>>;
+    readonly secretStorage: Get<SecretStorage<Record<string, string>>>;
     readonly adlibitumModules: Get<Ipp5AdlibitumModules<Ipp5AdlibitumModules.ModuleMap>>;
     readonly adlibitumVariables: Get<Record<string, unknown>>;
     readonly adlibitumEvents: Get<EventEmitter<EventEmitter.EventSpecs>>;
