@@ -1,5 +1,5 @@
 /*!
-    @e53e04ac/ipp5-backend-batch/main.mjs
+    @e53e04ac/ipp5-backend-batch/index.mjs
     Copyright (C) @e53e04ac
     MIT License
 */
@@ -20,7 +20,7 @@ import { Ipp5AdlibitumRouter } from 'ipp5-adlibitum-router';
 import { Ipp5AdlibitumServer } from 'ipp5-adlibitum-server';
 import { SecretStorage } from 'secret-storage-azure-keyvault-secrets';
 
-/** @type {import('./types').Application} */
+/** @type {import('.').Application} */
 const app = ({
     process: hold(() => {
         return process;
