@@ -4,9 +4,6 @@
 npm install e53e04ac/ipp5-backend-batch
 ~~~~~
 
-~~~~~ mjs
-~~~~~
-
 ~~~~~ mermaid
 graph LR;
   A(["ipp5-backend-batch"]);
