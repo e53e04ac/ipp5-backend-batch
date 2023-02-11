@@ -29,7 +29,6 @@
     "express": "^4.18.2",
     "express-rate-limit": "^6.7.0",
     "express-slow-down": "^1.5.0",
-    "file-entry": "github:e53e04ac/file-entry",
     "file-entry-native": "github:e53e04ac/file-entry-native",
     "hold": "github:e53e04ac/hold",
     "ipp5-adlibitum-modules": "github:e53e04ac/ipp5-adlibitum-modules",
@@ -39,7 +38,6 @@
     "jsdom": "^21.1.0",
     "nodemailer": "^6.9.1",
     "playwright": "^1.30.0",
-    "secret-storage": "github:e53e04ac/secret-storage",
     "secret-storage-azure-keyvault-secrets": "github:e53e04ac/secret-storage-azure-keyvault-secrets",
     "time-span": "github:e53e04ac/time-span",
     "xml2js": "^0.4.23"
@@ -52,6 +50,8 @@
     "@types/node": "^18.13.0",
     "@types/nodemailer": "^6.4.7",
     "@types/xml2js": "^0.4.11",
-    "ipp5-types": "github:e53e04ac/ipp5-types"
+    "file-entry": "github:e53e04ac/file-entry",
+    "ipp5-types": "github:e53e04ac/ipp5-types",
+    "secret-storage": "github:e53e04ac/secret-storage"
   }
 }
