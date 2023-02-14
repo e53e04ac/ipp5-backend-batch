@@ -68,7 +68,7 @@ graph RL;
   A ----> B_26;
   A ----> B_27;
   click B_0 "https://www.npmjs.org/package/async-lock/v/1.4.0";
-  click B_1 "https://www.npmjs.org/package/axios/v/1.3.2";
+  click B_1 "https://www.npmjs.org/package/axios/v/1.3.3";
   click B_2 "https://github.com/e53e04ac/event-emitter/tree/93b9f205a7be92bb920d2d4f13efa78be7b4ba5d";
   click B_3 "https://www.npmjs.org/package/express/v/4.18.2";
   click B_4 "https://www.npmjs.org/package/express-rate-limit/v/6.7.0";
