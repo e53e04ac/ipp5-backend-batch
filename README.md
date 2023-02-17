@@ -75,7 +75,7 @@ graph RL;
   click B_5 "https://www.npmjs.org/package/express-slow-down/v/1.5.0";
   click B_6 "https://github.com/e53e04ac/file-entry-native/tree/d43936715ed35379b9739953facede178c870ef8";
   click B_7 "https://github.com/e53e04ac/hold/tree/b0b5ef032800af76c6e7ae27472dbf25a04a947d";
-  click B_8 "https://github.com/e53e04ac/ipp5-adlibitum-modules/tree/e8198c5cccad78f0ec19fb2b4d552599b90d4e0f";
+  click B_8 "https://github.com/e53e04ac/ipp5-adlibitum-modules/tree/33c6f504acf335659f04dd99fba68755941246cf";
   click B_9 "https://github.com/e53e04ac/ipp5-adlibitum-router/tree/210bb75140feadf14a1a9759f493d0ee9b0fcffc";
   click B_10 "https://github.com/e53e04ac/ipp5-adlibitum-server/tree/2072762c0f025d733a274fe49c5552c8a08519c3";
   click B_11 "https://www.npmjs.org/package/joi/v/17.7.1";
