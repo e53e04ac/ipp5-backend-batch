@@ -63,7 +63,11 @@ const app = ({
         });
     }),
     adlibitumModules: hold(() => {
-        return Ipp5AdlibitumModules({});
+        return Ipp5AdlibitumModules({
+            eval: (async (f) => {
+                return eval(f);
+            }),
+        });
     }),
     adlibitumVariables: hold(() => {
         return {};
