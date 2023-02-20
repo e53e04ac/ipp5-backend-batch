@@ -82,7 +82,7 @@ graph RL;
   click B_12 "https://www.npmjs.com/package/jsdom/v/21.1.0";
   click B_13 "https://www.npmjs.com/package/nodemailer/v/6.9.1";
   click B_14 "https://www.npmjs.com/package/playwright/v/1.30.0";
-  click B_15 "https://github.com/e53e04ac/secret-storage-azure-keyvault-secrets/tree/583ae530feba7d78f480f4df97ed521f00c6731c";
+  click B_15 "https://github.com/e53e04ac/secret-storage-azure-keyvault-secrets/tree/c904fd5446ebfbe2a42a5c077f3a266b5ac9ea70";
   click B_16 "https://github.com/e53e04ac/time-span/tree/1870edc3c2fe6ae6b75e9cd8179b670573821d60";
   click B_17 "https://www.npmjs.com/package/xml2js/v/0.4.23";
   click B_18 "https://www.npmjs.com/package/@types/async-lock/v/1.4.0";
