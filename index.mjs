@@ -58,7 +58,7 @@ const app = ({
         return SecretStorage.fromDefaultCredential({
             vaultName: app.env().CUSTOM_BACKEND_BATCH_VAULT_NAME,
             deserialize: ((value, key) => {
-                return JSON.parse(value);
+                return JSON.parse(Buffer.from(value, 'base64url').toString());
             }),
         });
     }),
