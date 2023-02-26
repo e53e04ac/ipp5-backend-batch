@@ -31,6 +31,7 @@ export declare type Application = {
     readonly adlibitumEvents: Get<EventEmitter<EventEmitter.EventSpecs>>;
     readonly adlibitumRouter: Get<Ipp5AdlibitumRouter>;
     readonly adlibitumServer: Get<Ipp5AdlibitumServer>;
+    readonly logHandler: Get<ExpressRequestHandler<unknown, unknown, unknown, unknown, Record<string, unknown>>>;
     readonly healthcheckHandler: Get<ExpressRequestHandler<unknown, unknown, unknown, unknown, Record<string, unknown>>>;
     readonly expressSlowDown: Get<ExpressRequestHandler>;
     readonly expressRateLimit: Get<ExpressRequestHandler>;
