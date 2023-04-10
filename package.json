@@ -41,7 +41,7 @@
     "nodemailer": "^6.9.1",
     "secret-storage-azure-keyvault-secrets": "github:e53e04ac/secret-storage-azure-keyvault-secrets",
     "time-span": "github:e53e04ac/time-span",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.5.0"
   },
   "devDependencies": {
     "@types/async-lock": "^1.4.0",
