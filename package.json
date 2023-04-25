@@ -37,7 +37,7 @@
     "ipp5-adlibitum-server": "github:e53e04ac/ipp5-adlibitum-server",
     "ipp5-html-content": "github:e53e04ac/ipp5-html-content",
     "ipp5-web-browser": "github:e53e04ac/ipp5-web-browser",
-    "joi": "^17.8.3",
+    "joi": "^17.9.2",
     "nodemailer": "^6.9.1",
     "secret-storage-azure-keyvault-secrets": "github:e53e04ac/secret-storage-azure-keyvault-secrets",
     "time-span": "github:e53e04ac/time-span",
