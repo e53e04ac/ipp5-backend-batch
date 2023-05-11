@@ -38,7 +38,7 @@
     "ipp5-html-content": "github:e53e04ac/ipp5-html-content",
     "ipp5-web-browser": "github:e53e04ac/ipp5-web-browser",
     "joi": "^17.8.3",
-    "nodemailer": "^6.9.1",
+    "nodemailer": "^6.9.2",
     "secret-storage-azure-keyvault-secrets": "github:e53e04ac/secret-storage-azure-keyvault-secrets",
     "time-span": "github:e53e04ac/time-span",
     "xml2js": "^0.4.23"
